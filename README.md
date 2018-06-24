@@ -5,7 +5,7 @@
 1. Define two classes, one of which inherits from another. 
 2. Define methods in the child class that use the `super` keyword to inherit from and augment methods in the parent class. 
 
-## Instructions
+## Insgtructions
 
 In this lab, you'll be coding a `Student` class, which will be the parent class, and a `ChattyStudent` class, which will inherit from student. `ChattyStudent` *is* a student, so should have all of the behaviors and characteristics of a student. But, `ChattyStudent` is *very chatty*. So, he or she will elaborate on any phrases that are inherited from `Student`. 
 
